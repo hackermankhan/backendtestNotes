@@ -1,7 +1,5 @@
 const mongoose = require('mongoose')
 
-
-
 //define scheme
 const noteSchema = new mongoose.Schema({
   content: {
